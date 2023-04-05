@@ -1,8 +1,10 @@
-### Hi 👋, I'm Konrad a ppassionate frontend student and QA Engineer !
+### Hi 👋 I'm Konrad a passionate frontend student and junior QA Engineer !
 
 
 
 🌱 I’m currently learning JavaScript and React.js
+
+📫 How to reach me <a href="https://www.linkedin.com/in/konrad-ku%C5%BAniak-96912323b/">Linkedin</a>
 
 <!--
 **Kuzniakers/Kuzniakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
