@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Konrad a ppassionate frontend student and QA Engineer !
+
+
+
+🌱 I’m currently learning JavaScript and React.js
 
 <!--
 **Kuzniakers/Kuzniakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
