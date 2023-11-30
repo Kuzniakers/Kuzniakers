@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning JavaScript and React.js soon Python.
 
-📫 How to reach me <a target = "_blank" href="https://www.linkedin.com/in/konrad-ku%C5%BAniak-96912323b/">Linkedin</a>
+📫 How to reach me: <a target = "_blank" href="https://www.linkedin.com/in/konrad-ku%C5%BAniak-96912323b/">Linkedin</a>
 
 
 <!--
