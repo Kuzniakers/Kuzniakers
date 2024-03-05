@@ -1,8 +1,9 @@
-### <h2>Hi 👋 I'm Konrad a passionate software developer and junior QA Engineer !</h2>
+### <h2>Hi 👋 I'm Konrad a junior QA Engineer and passionate software developer !</h2>
 
+<h3> I am currently working in a XPlus company with great team! </h3>
 <h3> I am currently studying computer science at the WSB Merito University in Chorzów</h3><br>
 
-📝I mastered the basics of:
+📝In the huge IT world so far I have mastered the basics of:
 
 
 ✔ C#<br>
@@ -11,7 +12,7 @@
 ✔ Git<br>
 ✔ Manual software testing<br>
 
-🌱 I’m currently learning JavaScript and React.js soon Python.
+🌱 I’m currently learning JavaScript and testing tools such as Selenium and Playwright.
 
 📫 How to reach me: <a target = "_blank" href="https://www.linkedin.com/in/konrad-ku%C5%BAniak-96912323b/">Linkedin</a>
 
