@@ -17,7 +17,7 @@
 
 📫 How to reach me: <br>
 💬<a target = "_blank" href="https://www.linkedin.com/in/konrad-ku%C5%BAniak-96912323b/">Linkedin</a><br>
-💬<a target = "_blank" href="konrad.kuzniak@interia.pl">E-mail</a>
+💬<a target = "_blank" href="mailto:konrad.kuzniak@interia.pl">E-mail</a>
 
 
 <!--
