@@ -1,7 +1,7 @@
 ### <h1>Hi 👋 My name is Konrad, I am a junior QA Engineer and passionate software developer !</h1>
 
 
-<h2> I am currently working at <a href="https://xplusglobal.com/">XPlus</a> company with a great team!👯 </h2>
+<h2> I am currently working as QA automated engineer <a href="https://xplusglobal.com/">XPlus</a> company with a great team!👯 </h2>
 <h3> I am currently studying computer science at the WSB Merito University in Chorzów😄</h3><br>
 
 📝In the huge IT world, so far I have mastered the basics of:
