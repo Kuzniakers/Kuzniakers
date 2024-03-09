@@ -2,7 +2,7 @@
 
 
 <h2> I am currently working as QA automated engineer at <a href="https://xplusglobal.com/">XPlus</a> company with a great team!👯 </h2>
-<h3> I am currently studying computer science at the WSB Merito University in Chorzów😄</h3><br>
+<h3> I am also currently studying computer science at the WSB Merito University in Chorzów😄</h3><br>
 
 📝In the huge IT world, so far I have mastered the basics of:
 
