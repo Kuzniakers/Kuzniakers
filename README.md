@@ -13,6 +13,7 @@
 ✔ Microsoft Azure<br>  
 ✔ Google Cloud Platform<br>  
 ✔ Microsoft Dynamics 365<br>
+<br>
 
 🌱 I’m currently learning Python and testing tools such as Selenium and Playwright. Additionally, I enjoy exploring AI solutions to make tasks easier!
 
