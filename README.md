@@ -7,12 +7,13 @@
 
 ✔ C#<br>  
 ✔ JavaScript<br>  
-✔ MySQL<br>  
+✔ PlayWright<br>  
 ✔ Git<br>  
-✔ Manual software testing<br>  
+✔ Postman<br>  
 ✔ Microsoft Azure<br>  
 ✔ Google Cloud Platform<br>  
 ✔ Microsoft Dynamics 365<br>
+✔ Jira <br>
 <br>
 
 🌱 I’m currently learning Python and testing tools such as Selenium and Playwright. Additionally, I enjoy exploring AI solutions to make tasks easier!
